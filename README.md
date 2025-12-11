@@ -7,7 +7,7 @@ or just make your README stand out, this little duck brings personality <br>
 and positivity wherever it goes.<br>
 
 Give your repository a smile, add the Duck Badge and let your code quack with style!💛 <br> <br>
-(following the structure of the **New COMMON CORE** and soon next badges avaiable hehehe)
+(following the structure of the **New COMMON CORE** and soon next badges available hehehe)
 
 ---
 
