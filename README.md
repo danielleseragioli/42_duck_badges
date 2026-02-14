@@ -44,4 +44,7 @@ Give your repository a smile, add the Duck Badge and let your code quack with st
 | Project   |                     Badge                      |                     With Bonus                       |
 | :------------ | :--------------------------------------------: | :--------------------------------------------------: |
 | born2beroot     | ![born2beroot](./badges/born2beroot_pin.png) | ![born2beroot-bonus](./badges/born2beroot_pin_bonus.png)|
+| a_maze_ing     | ![born2beroot](./badges/a_maze_ing_pin.png) | ![born2beroot-bonus](./badges/a_maze_ing_pin_bonus.png)|
+| modules_python     | ![born2beroot](./badges/python_modules_pin.png) |
+
 
