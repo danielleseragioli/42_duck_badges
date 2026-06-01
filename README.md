@@ -47,4 +47,12 @@ Give your repository a smile, add the Duck Badge and let your code quack with st
 | a_maze_ing     | ![born2beroot](./badges/a_maze_ing_pin.png) | ![born2beroot-bonus](./badges/a_maze_ing_pin_bonus.png)|
 | modules_python     | ![born2beroot](./badges/python_modules_pin.png) |
 
+---
+
+## milestone 03
+
+| Project   |                     Badge                      |                     With Bonus                       |
+| :------------ | :--------------------------------------------: | :--------------------------------------------------: |
+| fly-in     | ![born2beroot](./badges/fly_in_pin.png) | ![born2beroot-bonus](./badges/fly_in_pin_bonus.png)|
+
 
