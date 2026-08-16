@@ -2,8 +2,7 @@
 If you’re a 42 student looking to add a touch of charm to your GitHub profile, <br>
 this adorable Duck Badge is the perfect choice! 🐤✨ <br>
 
-Give your repository a smile, add the Duck Badge and let your code quack with style!💛 <br> <br>
-(following the structure of the **New COMMON CORE** and soon next badges available hehehe)
+(following the structure of the **New COMMON CORE** and soon next badges available hehe)
 
 ---
 
@@ -44,8 +43,8 @@ Give your repository a smile, add the Duck Badge and let your code quack with st
 | Project   |                     Badge                      |                     With Bonus                       |
 | :------------ | :--------------------------------------------: | :--------------------------------------------------: |
 | born2beroot     | ![born2beroot](./badges/born2beroot_pin.png) | ![born2beroot-bonus](./badges/born2beroot_pin_bonus.png)|
-| a_maze_ing     | ![born2beroot](./badges/a_maze_ing_pin.png) | ![born2beroot-bonus](./badges/a_maze_ing_pin_bonus.png)|
-| modules_python     | ![born2beroot](./badges/python_modules_pin.png) |
+| a_maze_ing     | ![a_maze_ing](./badges/a_maze_ing_pin.png) | ![born2beroot-bonus](./badges/a_maze_ing_pin_bonus.png)|
+| modules_python     | ![modules_python](./badges/python_modules_pin.png) |
 
 ---
 
@@ -53,6 +52,8 @@ Give your repository a smile, add the Duck Badge and let your code quack with st
 
 | Project   |                     Badge                      |                     With Bonus                       |
 | :------------ | :--------------------------------------------: | :--------------------------------------------------: |
-| fly-in     | ![born2beroot](./badges/fly_in_pin.png) | ![born2beroot-bonus](./badges/fly_in_pin_bonus.png)|
+| fly-in     | ![fly-in ](./badges/fly_in_pin.png) | ![born2beroot-bonus](./badges/fly_in_pin_bonus.png)|
+| codexion     | ![fly-in ](./badges/codexion_pin.png) | ![born2beroot-bonus](./badges/codexion_pin_bonus.png)|
+| call-me-maybe     | ![fly-in ](./badges/call_me_maybe_pin.png) | ![born2beroot-bonus](./badges/call_me_maybe_pin_bonus.png)|
 
 
